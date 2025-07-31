@@ -1,2 +1,2 @@
-# new-Repo
-# for uploading data of PYcharm
+For uploading data of PYcharm
+Admin - Zohaib Ahmed
